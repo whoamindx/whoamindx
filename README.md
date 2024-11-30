@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Gabriel Rocha
-🧑🏻‍💻 Software Engineer at [Solutis](https://solutis.com.br)
+### Hi! I'm Gabriel Rocha
+👨🏻‍💻 Software Engineer at [Solutis](https://solutis.com.br)
 
 🌍 [WebSite](https://whoamindx.github.io)<br>
 💼 [LinkedIn](https://www.linkedin.com/in/whoamindx)<br>
